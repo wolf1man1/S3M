@@ -1,0 +1,317 @@
+=== 波长信息 ===
+  波段数  : 224
+  范围    : [397.66, 1003.81] nm
+  平均间隔: 2.7182 nm
+  完整列表:
+    Band   1: 397.66 nm
+    Band   2: 400.28 nm
+    Band   3: 402.90 nm
+    Band   4: 405.52 nm
+    Band   5: 408.13 nm
+    Band   6: 410.75 nm
+    Band   7: 413.37 nm
+    Band   8: 416.00 nm
+    Band   9: 418.62 nm
+    Band  10: 421.24 nm
+    Band  11: 423.86 nm
+    Band  12: 426.49 nm
+    Band  13: 429.12 nm
+    Band  14: 431.74 nm
+    Band  15: 434.37 nm
+    Band  16: 437.00 nm
+    Band  17: 439.63 nm
+    Band  18: 442.26 nm
+    Band  19: 444.89 nm
+    Band  20: 447.52 nm
+    Band  21: 450.16 nm
+    Band  22: 452.79 nm
+    Band  23: 455.43 nm
+    Band  24: 458.06 nm
+    Band  25: 460.70 nm
+    Band  26: 463.34 nm
+    Band  27: 465.98 nm
+    Band  28: 468.62 nm
+    Band  29: 471.26 nm
+    Band  30: 473.90 nm
+    Band  31: 476.54 nm
+    Band  32: 479.18 nm
+    Band  33: 481.83 nm
+    Band  34: 484.47 nm
+    Band  35: 487.12 nm
+    Band  36: 489.77 nm
+    Band  37: 492.42 nm
+    Band  38: 495.07 nm
+    Band  39: 497.72 nm
+    Band  40: 500.37 nm
+    Band  41: 503.02 nm
+    Band  42: 505.67 nm
+    Band  43: 508.32 nm
+    Band  44: 510.98 nm
+    Band  45: 513.63 nm
+    Band  46: 516.29 nm
+    Band  47: 518.95 nm
+    Band  48: 521.61 nm
+    Band  49: 524.27 nm
+    Band  50: 526.93 nm
+    Band  51: 529.59 nm
+    Band  52: 532.25 nm
+    Band  53: 534.91 nm
+    Band  54: 537.57 nm
+    Band  55: 540.24 nm
+    Band  56: 542.91 nm
+    Band  57: 545.57 nm
+    Band  58: 548.24 nm
+    Band  59: 550.91 nm
+    Band  60: 553.58 nm
+    Band  61: 556.25 nm
+    Band  62: 558.92 nm
+    Band  63: 561.59 nm
+    Band  64: 564.26 nm
+    Band  65: 566.94 nm
+    Band  66: 569.61 nm
+    Band  67: 572.29 nm
+    Band  68: 574.96 nm
+    Band  69: 577.64 nm
+    Band  70: 580.32 nm
+    Band  71: 583.00 nm
+    Band  72: 585.68 nm
+    Band  73: 588.36 nm
+    Band  74: 591.04 nm
+    Band  75: 593.73 nm
+    Band  76: 596.41 nm
+    Band  77: 599.10 nm
+    Band  78: 601.78 nm
+    Band  79: 604.47 nm
+    Band  80: 607.16 nm
+    Band  81: 609.85 nm
+    Band  82: 612.53 nm
+    Band  83: 615.23 nm
+    Band  84: 617.92 nm
+    Band  85: 620.61 nm
+    Band  86: 623.30 nm
+    Band  87: 626.00 nm
+    Band  88: 628.69 nm
+    Band  89: 631.39 nm
+    Band  90: 634.08 nm
+    Band  91: 636.78 nm
+    Band  92: 639.48 nm
+    Band  93: 642.18 nm
+    Band  94: 644.88 nm
+    Band  95: 647.58 nm
+    Band  96: 650.29 nm
+    Band  97: 652.99 nm
+    Band  98: 655.69 nm
+    Band  99: 658.40 nm
+    Band 100: 661.10 nm
+    Band 101: 663.81 nm
+    Band 102: 666.52 nm
+    Band 103: 669.23 nm
+    Band 104: 671.94 nm
+    Band 105: 674.65 nm
+    Band 106: 677.36 nm
+    Band 107: 680.07 nm
+    Band 108: 682.79 nm
+    Band 109: 685.50 nm
+    Band 110: 688.22 nm
+    Band 111: 690.93 nm
+    Band 112: 693.65 nm
+    Band 113: 696.37 nm
+    Band 114: 699.09 nm
+    Band 115: 701.81 nm
+    Band 116: 704.53 nm
+    Band 117: 707.25 nm
+    Band 118: 709.97 nm
+    Band 119: 712.70 nm
+    Band 120: 715.42 nm
+    Band 121: 718.15 nm
+    Band 122: 720.87 nm
+    Band 123: 723.60 nm
+    Band 124: 726.33 nm
+    Band 125: 729.06 nm
+    Band 126: 731.79 nm
+    Band 127: 734.52 nm
+    Band 128: 737.25 nm
+    Band 129: 739.98 nm
+    Band 130: 742.72 nm
+    Band 131: 745.45 nm
+    Band 132: 748.19 nm
+    Band 133: 750.93 nm
+    Band 134: 753.66 nm
+    Band 135: 756.40 nm
+    Band 136: 759.14 nm
+    Band 137: 761.88 nm
+    Band 138: 764.62 nm
+    Band 139: 767.36 nm
+    Band 140: 770.11 nm
+    Band 141: 772.85 nm
+    Band 142: 775.60 nm
+    Band 143: 778.34 nm
+    Band 144: 781.09 nm
+    Band 145: 783.84 nm
+    Band 146: 786.58 nm
+    Band 147: 789.33 nm
+    Band 148: 792.08 nm
+    Band 149: 794.84 nm
+    Band 150: 797.59 nm
+    Band 151: 800.34 nm
+    Band 152: 803.10 nm
+    Band 153: 805.85 nm
+    Band 154: 808.61 nm
+    Band 155: 811.36 nm
+    Band 156: 814.12 nm
+    Band 157: 816.88 nm
+    Band 158: 819.64 nm
+    Band 159: 822.40 nm
+    Band 160: 825.16 nm
+    Band 161: 827.92 nm
+    Band 162: 830.69 nm
+    Band 163: 833.45 nm
+    Band 164: 836.22 nm
+    Band 165: 838.98 nm
+    Band 166: 841.75 nm
+    Band 167: 844.52 nm
+    Band 168: 847.29 nm
+    Band 169: 850.06 nm
+    Band 170: 852.83 nm
+    Band 171: 855.60 nm
+    Band 172: 858.37 nm
+    Band 173: 861.14 nm
+    Band 174: 863.92 nm
+    Band 175: 866.69 nm
+    Band 176: 869.47 nm
+    Band 177: 872.25 nm
+    Band 178: 875.03 nm
+    Band 179: 877.80 nm
+    Band 180: 880.58 nm
+    Band 181: 883.37 nm
+    Band 182: 886.15 nm
+    Band 183: 888.93 nm
+    Band 184: 891.71 nm
+    Band 185: 894.50 nm
+    Band 186: 897.28 nm
+    Band 187: 900.07 nm
+    Band 188: 902.86 nm
+    Band 189: 905.64 nm
+    Band 190: 908.43 nm
+    Band 191: 911.22 nm
+    Band 192: 914.02 nm
+    Band 193: 916.81 nm
+    Band 194: 919.60 nm
+    Band 195: 922.39 nm
+    Band 196: 925.19 nm
+    Band 197: 927.98 nm
+    Band 198: 930.78 nm
+    Band 199: 933.58 nm
+    Band 200: 936.38 nm
+    Band 201: 939.18 nm
+    Band 202: 941.98 nm
+    Band 203: 944.78 nm
+    Band 204: 947.58 nm
+    Band 205: 950.38 nm
+    Band 206: 953.19 nm
+    Band 207: 955.99 nm
+    Band 208: 958.80 nm
+    Band 209: 961.60 nm
+    Band 210: 964.41 nm
+    Band 211: 967.22 nm
+    Band 212: 970.03 nm
+    Band 213: 972.84 nm
+    Band 214: 975.65 nm
+    Band 215: 978.46 nm
+    Band 216: 981.27 nm
+    Band 217: 984.09 nm
+    Band 218: 986.90 nm
+    Band 219: 989.72 nm
+    Band 220: 992.54 nm
+    Band 221: 995.35 nm
+    Band 222: 998.17 nm
+    Band 223: 1000.99 nm
+    Band 224: 1003.81 nm
+
+=== 样本分辨率 & 数据类型 ===
+  样本总数: 48
+  样本名                  H      W      C  dtype
+  ---------------------------------------------
+  FX10_L145          882    516    224  double
+  FX10_L146          867    528    224  double
+  FX10_L147          891    528    224  double
+  FX10_L148          888    528    224  double
+  FX10_L149          923    528    224  double
+  FX10_L150          873    528    224  double
+  FX10_L151          911    528    224  double
+  FX10_L152          906    528    224  double
+  FX10_L153          868    527    224  double
+  FX10_L154          907    527    224  double
+  FX10_L155          862    527    224  double
+  FX10_L156          870    527    224  double
+  FX10_L157          890    527    224  double
+  FX10_L158          863    519    224  double
+  FX10_L159          881    519    224  double
+  FX10_L160          859    519    224  double
+  FX10_L161          887    519    224  double
+  FX10_L162          893    519    224  double
+  FX10_L163          909    528    224  double
+  FX10_L164          873    528    224  double
+  FX10_L165          892    528    224  double
+  FX10_L166          812    528    224  double
+  FX10_L167          856    528    224  double
+  FX10_L168          901    528    224  double
+  FX10_L169          907    528    224  double
+  FX10_L170          854    527    224  double
+  FX10_L171          890    527    224  double
+  FX10_L172          917    527    224  double
+  FX10_L173          867    527    224  double
+  FX10_L174          905    527    224  double
+  FX10_L175          911    516    224  double
+  FX10_L176          874    516    224  double
+  FX10_L177          889    516    224  double
+  FX10_L178          898    516    224  double
+  FX10_L179          871    516    224  double
+  FX10_L180          887    528    224  double
+  FX10_L181          873    528    224  double
+  FX10_L182          874    528    224  double
+  FX10_L183          895    528    224  double
+  FX10_L184          892    528    224  double
+  FX10_L185          892    528    224  double
+  FX10_L186          874    528    224  double
+  FX10_L187          919    528    224  double
+  FX10_L188          936    528    224  double
+  FX10_L189          908    528    224  double
+  FX10_L190          905    528    224  double
+  FX10_L191          891    528    224  double
+  FX10_L192          873    513    224  double
+
+  H 范围: 812 ~ 936
+  W 范围: 513 ~ 528
+  C 固定: 224
+  dtype : double
+一些参考,逐样本统计（共 48 个）...
+
+  样本名                    min        max       mean
+  ------------------------------------------------
+  FX10_L145           0.0000     1.0317     0.1673
+  FX10_L146           0.0000     0.9901     0.1107
+  FX10_L147           0.0000     1.0629     0.1127
+  FX10_L148           0.0000     1.0929     0.1841
+  FX10_L149           0.0000     1.2108     0.1650
+  FX10_L150           0.0000     1.1205     0.1335
+  FX10_L151           0.0000     1.0023     0.1225
+  FX10_L152           0.0000     1.0378     0.1287
+  FX10_L153           0.0000     1.0923     0.1147
+  FX10_L154           0.0000     1.0523     0.1506
+  FX10_L155           0.0000     1.0593     0.1123
+  FX10_L156           0.0000     1.0500     0.1249
+  FX10_L157           0.0000     1.0195     0.1543
+  FX10_L158           0.0000     1.0472     0.1450
+  FX10_L159           0.0000     1.0807     0.1179
+  FX10_L160           0.0000     0.9978     0.1148
+  FX10_L161           0.0000     1.0069     0.0909
+  FX10_L162           0.0000     1.0350     0.1320
+  FX10_L163           0.0000     1.0248     0.0916
+  FX10_L164           0.0000     1.0102     0.1186
+  FX10_L165           0.0000     1.0564     0.1551
+  FX10_L166           0.0000     1.0805     0.1022
+  FX10_L167           0.0000     1.0759     0.1118
+  FX10_L168           0.0000     1.0240     0.1265
+  FX10_L169           0.0000     1.0923     0.0986
+  FX10_L170           0.0000     1.0645     0.2067

@@ -1,0 +1,14 @@
+
+
+Samson
+
+Urban
+
+
+https://huggingface.co/datasets/satellogic/EarthView
+https://huggingface.co/datasets/danaroth/moffett_field/tree/main
+https://huggingface.co/datasets/danaroth/cuprite/tree/main
+https://huggingface.co/datasets/danaroth/jasper_ridge/tree/main
+https://huggingface.co/datasets/danaroth/washington_dc_mall/tree/main
+https://huggingface.co/datasets/zhu-xlab/GEWDiff_training_dataset
+https://huggingface.co/datasets/danaroth/urban/tree/main

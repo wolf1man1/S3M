@@ -1,0 +1,2 @@
+HySpecNet-11k 提供了从 EnMAP 图块中提取的 11,483 张高光谱图像，覆盖 420 至 2,450 nm 的波长范围，大气校正后包含 202 个可用光谱波段。. 数据集波段从 224 个缩减为 202 个（剔除索引为 [127–141] 和 [161–167] 的波段）
+本地文件地址,对应EnMAP波长"C:\Users\feng\Desktop\新建文件夹 (2)\kaggle\consts\笔记\EnMAP_Spectral_Bands_update.xlsx"

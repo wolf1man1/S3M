@@ -1,0 +1,37 @@
+数据集中的所有图像均使用公式(1) 进行参考校准。
+（1）
+其中，I <sub>c</sub>是校准后的光谱反射率图像，I <sub>0</sub>是原始光谱图像，I <sub>d</sub>是暗参考图像，I <sub>w</sub>是白参考图像。每幅植物图像都是一个Numpy数组（.npy），其维度为x、y、z。其中x和y是空间维度，z是光谱维度，包含224个波长。
+使用Specim FX10推扫式高光谱传感器（芬兰奥卢Spectral Imaging Ltd.公司）在400–1000 nm的可见光-近红外波段采集数据。数据采集过程中使用遮光箱阻挡大气照明，并在卤素光源的控制照明下进行。作物和杂草被种植在温室中的花盆（尺寸为长3.5英寸 x 宽3.5英寸 x 高5英寸）中，并在盆栽状态下进行成像。种植介质为市售盆栽混合土，并遵循正常的浇水计划。拍摄的图像展示了植物在营养生长期之后的不同生长阶段
+Spectral Range 400-1000 / 400-780 (c-version)
+Spectral resolution (FWHM) 5.5 nm (mean)
+Spectral sampling/pixel 2.7 nm With default binning
+Spectral bands 224 / 140 (c-version) With default binning
+Numerical aperture 1.7 With default lens
+Optics magnification 0.80
+Effective slit length,10.2 mm,At fore lens image plane
+SNR @ max. signal,420 : 1,
+Spatial samples,1024,
+Bit depth,12,
+Maximum frame rate,327 FPS full range / 514 FPS full range (c-version),
+Binning,"2,4,8 spectral and spatial",Default: 2 spectral x 1 spatial
+ROI,Freely selectable multiple bands of interest,Minimum height of ROI is two 1-binned rows. Maximum frame rate is determined by the total number of rows included in the mMROI's
+Pixel operability,99.993%,
+Image corrections,Non uniformity correctionBad pixel replacementAutomatic Image Enhancement (AIE),One point NUCAIE: Unified spectral calibration + corrected smile and keystone aberrations
+Sensor material,CMOS,
+Sensor cooling,Passive,
+Full well capacity,90 ke-,
+Read-out modes,IWR / ITR,
+Optics temperature,Passive,
+Lens mount,Custom mount,
+Fore lens FOV options,12 deg38 deg (default)47 deg51 deg83 deg,"Only the default lens is specifically designed for FX10. With other lens options, optical parameters may vary."
+Camera digital data output/control interface,"GigE Vision, CameraLink",
+Camera control protocols,"GenICam, ASCII",
+Power input,12 V DC (+-10%),
+Power consumption,Max 4 W,
+Connectors,"Industrial Ethernet OR CameraLink 26-pin, 0.5” MDR",
+IP,IP52,
+Dimensions (L x W x H),150 x 85 x 71 mm,Mounting surface option on three sides. Mounting kit adds 24 mm distance on mounting side.
+Weight,1.3 kg,
+Storage temperature,-20 ... +50°C (non-condensing),
+Operating temperature,+5 ... +40°C (non-condensing),
+Relative humidity,5% – 95% (non-condensing),
